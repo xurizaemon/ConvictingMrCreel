@@ -1,0 +1,9 @@
+{
+  "name": "ConvictingMrCreel",
+  "description": "A desktop CiviCRM client built with AngularJS",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
